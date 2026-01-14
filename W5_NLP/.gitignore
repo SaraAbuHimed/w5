@@ -2,3 +2,10 @@ ingredients/
 *.zip
 *100k*.tsv
 output/
+# Large models and embeddings
+M2/labs/C2_M3_Lab_2_embeddings/bert_model/
+M2/labs/C2_M3_Lab_2_embeddings/glove_data/
+M2/labs/C2_M3_Lab_4_finetuned_text_classifier/distilbert-local-base/
+
+# Large datasets
+recipes_fruit_veg.csv
